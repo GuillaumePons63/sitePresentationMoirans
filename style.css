@@ -1,0 +1,23 @@
+#kevin {
+    padding: 10px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#kevin h1 a{
+    color: black;
+    text-decoration: none;
+}
+
+#kevin h1 a:hover{
+    color: rgb(177, 156, 217);
+}
+
+#kevin p{
+    padding: 10px;
+    background-color: rgb(177, 156, 217);
+    border-radius: 20px;
+    text-align: center;
+}
