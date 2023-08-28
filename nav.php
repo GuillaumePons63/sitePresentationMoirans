@@ -11,6 +11,7 @@
         </li>
         <li class="nav-item">
           <a class="nav-link" href="/guigui.php">Guigui</a>
+          <a class="nav-link" href="/gregory.php">Greg</a>
         </li>
       </ul>
     </div>
