@@ -1,4 +1,5 @@
 <?php include("head.php"); ?>
+
 <body>
     <?php include("header.php"); ?>
     <?php include("nav.php"); ?>
@@ -8,4 +9,5 @@
     </main>
 </body>
 <?php include("script.php") ?>
+
 </html>
