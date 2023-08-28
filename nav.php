@@ -12,6 +12,9 @@
         <li class="nav-item">
           <a class="nav-link" href="/guigui.php">Guigui</a>
         </li>
+        <li class= "nav-item">
+          <a class="nav-link" href="/delphine.php">Delphine</a>
+        </li>
       </ul>
     </div>
   </div>
