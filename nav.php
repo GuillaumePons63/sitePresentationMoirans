@@ -10,8 +10,10 @@
           <a class="nav-link active" aria-current="page" href="/index.php">Page de présentation</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/guigui.php">Guigui</a>
-          <a class="nav-link" href="/gregory.php">Greg</a>
+          <a class="nav-link" href="/guigui.php">Guigui</a>          
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/gregory.php">Gregory</a>
         </li>
       </ul>
     </div>
