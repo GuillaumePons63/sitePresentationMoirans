@@ -15,13 +15,11 @@
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="/nicow.php">Nicow</a>
-                </li>
+                </li>              
               <li class="nav-item">
-              <li class="nav-item">
-          <a class="nav-link" href="/gregory.php">Gregory</a>
-        </li>
-        </li>
-      </ul>
+                <a class="nav-link" href="/gregory.php">Gregory</a>
+              </li>        
+            </ul>
         </div>
     </div>
 </nav>
